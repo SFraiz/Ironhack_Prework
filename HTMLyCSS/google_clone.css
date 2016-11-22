@@ -1,0 +1,57 @@
+p {
+	text-align: right; color: gray;
+}
+a {
+	text-decoration: none; color: gray; margin-right: 10px;
+}
+a:hover {
+	text-decoration: underline;
+}
+img.first {
+	height: 25px; width: 25px;
+}
+img.second {
+	align-items: center;
+}
+img.third {
+	height: 25px; width: 25px; float: right;
+}
+button {
+	align-items: center; border: none; background-color: #F5F5F5; color: gray; font-size: 14px; margin: 5px;
+}
+footer {
+	background-color: #F5F5F5; position: absolute; bottom: 0; min-width: 100%; height: 50px;
+}
+div.buscador {
+	min-height: 30px; min-width: 650px; border: solid gray 2px; opacity: 0.4;
+}
+div.boss {
+	margin-left: 30%; margin-right: 30%;
+}
+div.boss div {
+	margin-top: 10px;
+}
+div.left {
+	height: 50px; width: 150px; background-color: #F5F5F5; float: left; 
+}
+div.left a {
+	text-align: center; vertical-align: center; line-height: 50px;
+}
+div.right {
+	height: 50px; width: 150px; background-color: #F5F5F5; float: right;
+}
+div.right a {
+	text-align: center; vertical-align: center; line-height: 50px; 
+}
+div.first {
+	float: left;
+}
+div.second {
+	float: right;
+}
+span {
+	text-align: right;
+}
+footer div {
+	margin-top: 15px;
+}
